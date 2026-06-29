@@ -1,0 +1,12 @@
+La relación entre estos conceptos radica en la colaboración estructurada y la trazabilidad. 
+Así como Git utiliza un sistema de ramas y nodos para organizar el trabajo técnico,
+permitiendo que múltiples desarrolladores aporten a un proyecto de software de forma
+descentralizada sin generar caos, la participación ciudadana en internet requiere una
+dinámica similar. Cada persona actúa como un nodo en la red que recibe, procesa y 
+distribuye información; sin embargo, para que esta red funcione correctamente y construya 
+una sociedad digital sana (nuestro "software" social), se exige un uso responsable de 
+los datos. Al igual que un control de versiones mantiene un historial transparente de los 
+cambios, la ciudadanía debe compartir información verificada y ética. De este modo, el 
+orden técnico de herramientas como Git nos enseña que una participación ciudadana 
+responsable en internet depende de organizar, validar y ramificar nuestras ideas para 
+sumar al conocimiento colectivo en lugar de propagar desinformación.
